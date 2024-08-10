@@ -93,13 +93,6 @@
 			<version>5.1.1.Final</version>
 		</dependency>
 
-
-		<dependency>
-			<groupId>net.sf.jasperreports</groupId>
-			<artifactId>jasperreports</artifactId>
-			<version>6.11.0</version>
-		</dependency>
-
 	</dependencies>
 	<build>
 		<finalName>project_3</finalName>
